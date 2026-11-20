@@ -1,6 +1,5 @@
 # Hi, I'm Luís 👋
-
-**Product Manager at Talkdesk**, based in Portugal. I build and launch industry-specific cloud products for contact centers, and I work in the space between product, engineering and partners.
+a strategic, results-driven **Product Manager at Talkdesk** with 8+ years across SaaS, fintech and banking, leading cross-functional teams and data-driven roadmaps from AI products to payments.
 
 ## What I do
 
