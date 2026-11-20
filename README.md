@@ -1,5 +1,5 @@
 # Hi, I'm Luís 👋
-a strategic, results-driven **Product Manager at Talkdesk** with 8+ years across SaaS, fintech and banking, leading cross-functional teams and data-driven roadmaps from AI products to payments.
+A strategic, results-driven **Product Manager at Talkdesk** with 8+ years across SaaS, fintech and banking, leading cross-functional teams and data-driven roadmaps from AI products to payments.
 
 ## What I do
 
