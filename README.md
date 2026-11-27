@@ -12,10 +12,8 @@ A strategic, results-driven **Product Manager at Talkdesk** with 8+ years across
 
 | Repo | What it is |
 |------|------------|
-| `pm-templates` | PRD, prioritization and launch-plan templates I actually use |
-| `case-studies` | Write-ups of how I approach launching a vertical: decisions, trade-offs, lessons |
-| `ai-for-pms` | Prompts and workflows that make product management faster |
-| `product-teardowns` | Short analyses of products I find interesting |
+| [pm-templates](https://github.com/loiscat/pm-templates) | PRD, prioritization, launch, partner integration and stakeholder update templates I actually use |
+| [product-teardowns](https://github.com/loiscat/product-teardowns) | Short analyses of products I find interesting. Latest: [Surfline](https://github.com/TEU-UTILIZADOR/product-teardowns/blob/main/surfline-teardown.md) |
 
 *Everything here is generic or anonymized. No customer data or confidential company information.*
 
